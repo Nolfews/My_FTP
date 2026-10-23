@@ -1,0 +1,8 @@
+*.o
+/bootstrap
+unit_tests*
+*.gcno
+*.gcda
+EPITECH-MyFTP-Protocol-(RFC959-Extract).txt
+myftp
+/ftp_root
